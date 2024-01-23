@@ -1,0 +1,33 @@
+body {
+  background-image: url(https://wallpaperaccess.com/full/4563797.jpg);
+  background-size: cover;
+}
+  
+.calculator {
+  text-align: center;
+}
+  
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 3vh;
+}
+  
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 6vh;
+}
+  
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.nadpis{
+  color:aliceblue;
+  display: flex;
+  justify-content: center;
+}
